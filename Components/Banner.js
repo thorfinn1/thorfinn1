@@ -3,7 +3,7 @@ import Image from "next/image"
 function Banner() {
     return (
         <div className="relative h-[300px] sm:h-[400px] lg:[500px] xl:h-[600px] 2xl:h-[700px]">
-            <Image src="https://links.papareact.com/0fm" layout="fill"
+            <Image src="https://res.cloudinary.com/dvhcociyf/image/upload/v1642634347/metas/airbnb-clone/57b9f708-bb12-498c-bc33-769f8fc43e63_fik2hy.webp" layout="fill"
             objectFit="cover" 
             />
             <div className="absolute top-1/2 w-full text-center">
