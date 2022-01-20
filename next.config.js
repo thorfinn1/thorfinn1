@@ -2,7 +2,7 @@ module.exports = {
   images: {
     loader: 'cloudinary',
     domains: ['links.papareact.com', 'res.cloudinary.com'],   
-    path: 'https://res.cloudinary.com/dvhcociyf/image/upload/v1642634347/metas/airbnb-clone/57b9f708-bb12-498c-bc33-769f8fc43e63_fik2hy.webp'
+    path: 'https://cloudinary.com/console/c-a29d29896489e75d51d4e4a7e1ffe6/media_library/folders/home'
   },
  
 }
